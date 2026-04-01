@@ -1,0 +1,5 @@
+{
+  "name": "Instant Accepter",
+  "description": "Auto-clicker and fare filter UI for ride-sharing drivers.",
+  "requestFramePermissions": []
+}
